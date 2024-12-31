@@ -1,1 +1,3 @@
-# zotero_intro
+# University of Idaho VERSO Guide
+
+Transcript, links and slide deck of introductory presentation for students, staff and faculty engaging with [University of Idaho Library's VERSO](https://www.lib.uidaho.edu/verso/) institutional repository platform. The guide walks through how VERSO functions, how to create a profile if data harvesting hasn't done so already, how to add scholarly work, edit your author profile and hide any work you don't want to have public. 
