@@ -11,7 +11,7 @@ gallery: true
 
 ## Information Architecture
 
-**Now that all of your software is connected**, the first step to building your collections is considering how you want to organize your research material. One of the most straightforward ways you might choose to organize a folder, subfolder collection is chronologically. 
+**Now that all of your software is connected**, the first step to building your collections is considering how you want to organize your research material. 
 
 **For example:**
 
@@ -110,13 +110,13 @@ Best for: **Research using diverse approaches**
 
 **No one way is better than another**; they simply need to best suit what scholarly output you would like to produce and the format that is most intuitive to you as a researcher. 
 
-**On a technical level**, to create a new collection or subcollection, either select File from the menu and New Collection, or simply right click My Library on the left pane of the application and start building out your collection structure. 
+**On a technical level**, to create a new collection or subcollection, either select `File` from the menu and `New Collection`, or simply right click `My Library` on the left pane of the application and start building out your collection structure. 
 
 <br>
 
 ## Importing Files
 
-Once you have an idea of how to best organize your material, let’s begin filling it in with documents. Another powerful feature of Zotero that can help you save a massive amount of time in citation management is its `Retrieve Metadata` feature. If you drop one or many PDF files in your collection, Zotero will automatically scan these documents for a Digital Object Identifier (DOI), PubMed ID (PMID), or other metadata embedded in the file. The software will then query external databases such as CrossRef, Pubmed and Google Scholar that contain bibliographic details of the work’s title, author, publication year, etc. and fill in these items, creating a parent item for the PDF file and differentiating item type depending on if the item is a book, journal article, newspaper article or any of the other 35 qualifiers Zotero distinguishes.
+Once you have an idea of how to best organize your material, let’s begin filling it in with documents. Another powerful feature of Zotero that can help you save a massive amount of time in citation management is its `Retrieve Metadata` feature. If you drop one or many PDF files in your collection, Zotero will automatically scan these documents for a [Digital Object Identifier](https://www.lib.uidaho.edu/services/data/dois.html){:target="_blank" rel="noopener"} (DOI), PubMed ID (PMID), or other metadata embedded in the file. The software will then query external databases such as CrossRef, Pubmed and Google Scholar that contain bibliographic details of the work’s title, author, publication year, etc. and fill in these items, creating a parent item for the PDF file and differentiating item type depending on if the item is a book, journal article, newspaper article or any of the other 35 qualifiers Zotero distinguishes.
 
 {% include alert.html text="Note: The `Retrieve Metadata` feature and Zotero in general is meant to work with PDF files rather than DOC or TXT files. While these files will import into a collection metadata retrieval, citation formatting and exporting DOC files are prone to corruption." color="light" align="center" %}
 
@@ -160,7 +160,7 @@ This is an appropriate time to mention that **Zotero is free up to 300 MB**, aft
 
 - Remembering to remove duplicate items
 - Emptying your trash folder and 
-- Regularly exporting collections once a semester or project ends before deleting those items from your collection 
+- Regularly exporting collections once a semester or when a project ends, before deleting those items from your collection 
 
 **should be sufficient to maintain a completely free Zotero account!**
 
