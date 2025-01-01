@@ -20,7 +20,7 @@ gallery: true
 #### **1. Chronological Organization**  
 Best for: **Sequential learning or time-based projects**  
 **Example:**  
-📘 **Science Class**  
+📘 **Science Coursework**  
 - **Course 1**  
   - **Week 1:**  
     - 🗣️ Lecture Notes  
@@ -63,14 +63,14 @@ Best for: **Focused, outcome-driven work**
 #### **3. Methodological Framework Organization**  
 Best for: **Research using diverse approaches**  
 **Example:**  
-🏙️ **Sociology Research**  
+🏙️ **Sociology Scholarship**  
 - **Qualitative Research**  
   - 🛤 Ethnography  
     - 📖 Field Notes: Rural Communities  
     - 🗂 Case Studies  
   - 🎤 Interviews  
     - 📝 Transcripts  
-    - 🧩 Coding Framework  
+    - 🧩 Subject Tagging  
 - **Quantitative Research**  
   - 📊 Surveys  
     - 📝 Questionnaire Design  
@@ -81,17 +81,32 @@ Best for: **Research using diverse approaches**
 - **Mixed Methods**  
   - ⚖ Comparative Studies  
     - 🔄 Case vs. Control Groups  
-    - 🌐 Interdisciplinary Approaches  
-  - 📖 Literature Review  
-    - 📚 Articles on Mixed Methods  
-    - 🗂 Annotated Bibliography  
+    - 🌐 Interdisciplinary Approaches   
 
 ---
 
 ### **Other Research Organization Approaches**  
-- **Resource Type**: 📘 Books | 📄 Journal Articles | 🌐 Web Resources  
-- **Citation Priority**: ❗ Must Cite | 📚 Further Reading | 🕵️‍♂️ Background Information  
-- **Stage of Research**: 🔍 Literature Review | 📊 Data Analysis | ✍ Publication  
+
+<table style="width:100%; border-collapse:collapse; text-align:center; border:1px solid black;">
+  <tr>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;">Sections</th>
+  </tr>
+  <tr>
+    <td style="border:1px solid black;"><strong>Resource Type</strong></td>
+    <td style="border:1px solid black;">📘 Books | 📄 Journal Articles | 🌐 Web Resources</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid black;"><strong>Citation Priority</strong></td>
+    <td style="border:1px solid black;">❗ Must Cite | 📚 Further Reading | 🕵️‍♂️ Background Information</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid black;"><strong>Stage of Research</strong></td>
+    <td style="border:1px solid black;">🔍 Literature Review | 📊 Data Analysis | ✍ Publication</td>
+  </tr>
+</table>
+
+<br>
 
 **No one way is better than another**; they simply need to best suit what scholarly output you would like to produce and the format that is most intuitive to you as a researcher. 
 
@@ -107,13 +122,13 @@ Once you have an idea of how to best organize your material, let’s begin filli
 
 **Safe and freely available ways to convert DOC and TXT files to PDF include:**
 
-- Upload the DOC or TXT file to your Google Drive.
+- Upload the DOC or TXT file to your **Google Drive**.
 - Open the file with Google Docs.
 - From the "File" menu, choose Download > PDF Document (.pdf).
 
  **Or**
 
-- Open the DOC file in Microsoft Word (available to students as part of the Office 365 suite).
+- Open the DOC file in **Microsoft Word** (available to students as part of the Office 365 suite).
 - Select File > Save As.
 - Choose PDF as the format and save.
 
