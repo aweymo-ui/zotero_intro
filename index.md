@@ -6,7 +6,7 @@ gallery: true
 
 {% include gallery-figure.html img="banner.gif" alt="Banner image with animation of research being poured onto the ground, organized, encoded, searched, compacted and archived" caption="Introduction to Zotero" title="Introduction to Zotero" %}
 
-Transcript, links and slides of introductory guide for using Zotero to organize scholarly materials, create bibliographies, summarize annotations, collaborate on group projects and preserve your research for future reference.
+Introductory guide to using the citation manager Zotero to organize scholarly materials, create bibliographies, summarize annotations, collaborate on group projects and preserve your research for future reference. Created for the Spring 2025 U of I Information Landscape series.
 
 {% include toc.html %}
 
