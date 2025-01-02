@@ -4,7 +4,7 @@ layout: page
 gallery: true
 ---
 
-{% include gallery-figure.html img="banner.gif" alt="Title card with a photo of the author and an image of a data visualization" caption="Banner with Bibliometric Visualization of Scholarly Output from Taylor Wilderness Research Station" title="Banner with Bibliometric Visualization of Scholarly Output from Taylor Wilderness Research Station" %}
+{% include gallery-figure.html img="banner.gif" alt="Banner image with animation of research being poured onto the ground, organized, encoded, searched, compacted and archived" caption="Introduction to Zotero" title="Introduction to Zotero" %}
 
 Transcript, links and slides of introductory guide for using Zotero to organize scholarly materials, create bibliographies, summarize annotations, collaborate on group projects and preserve your research for future reference.
 

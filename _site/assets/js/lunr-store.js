@@ -34,5 +34,5 @@ var store = [
     { 
         "url": "/zotero_intro/",
         "title": "Home",
-        "text": "Banner with Bibliometric Visualization of Scholarly Output from Taylor Wilderness Research Station Transcript, links and slides of introductory guide for using Zotero to organize scholarly materials, create bibliographies, summarize annotations, collaborate on group projects and preserve your research for future reference. Contents: Why Use Zotero? Getting Started Building Collections Annotation, Tagging and Searching Creating Bibliographies, Reports and Notes from Annotations Collaboration, Preservation and Conclusion Content: CC BY-NC-ND 4.0 Andrew Weymouth 2025 (get source code). Theme: Variation on workshop-template-b by evanwill"
+        "text": "Introduction to Zotero Transcript, links and slides of introductory guide for using Zotero to organize scholarly materials, create bibliographies, summarize annotations, collaborate on group projects and preserve your research for future reference. Contents: Why Use Zotero? Getting Started Building Collections Annotation, Tagging and Searching Creating Bibliographies, Reports and Notes from Annotations Collaboration, Preservation and Conclusion Content: CC BY-NC-ND 4.0 Andrew Weymouth 2025 (get source code). Theme: Variation on workshop-template-b by evanwill"
     }];
