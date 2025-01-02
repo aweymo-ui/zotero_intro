@@ -4,7 +4,7 @@ nav: Creating Bibliographies, Reports and Notes from Annotations
 gallery: true
 ---
 
-To create a bibliography of a collection, simply select some or all of the items you would like, right click and select `Create Bibliography from Items.` This will open a pop-up window that will give you a list of 15 of the most popular styles by default (although selecting the `Manage Styles` link below this box will open up the setting where you can add or remove styles as needed). This pop-up also allows you to select your preferred language, choose between in-line citation or endnote bibliography formatting and choose the output method between a Rich Text File, HTML, print (or save to PDF) and, what I choose most, copy to clipboard – which I will paste into my document when I’m finished. 
+To create a bibliography of a collection, simply select some or all of the items you would like to use, right click and select `Create Bibliography from Items.` This will open a pop-up window that will give you a list of 15 of the most popular styles by default (although selecting the `Manage Styles` link below this box will open up the setting where you can add or remove styles as needed). This pop-up also allows you to select your preferred language, choose between in-line citation or endnote bibliography formatting and choose the output method between a Rich Text File, HTML, print (or save to PDF) and, what I choose most, copy to clipboard – which I will paste into my document when I’m finished. 
 
 {% include gallery-figure.html img="zot_10.gif" alt="Demonstration of how to create bibliographic endnotes using Zotero" caption="How to create bibliographic endnotes using Zotero" width="100%" %}
 
@@ -20,8 +20,6 @@ Finally, another great feature for creating summaries between collections is the
 
 ## Connecting Zotero to Web Based Word Processors
 
-One feature that Zotero promotes but I’ve never had too much luck with is adding Extensions to Google Docs and Microsoft Word to automatically generate citations in your document. Perhaps due to errors in the Application Programming Interface (or API) that would allow the two programs to exchange information and perform tasks without having to understand the underlying code of the other system, I have never been able to get this extension to function for me and have a similar experience when attempting to link Zotero to the personal research tool Obsidian. 
-
-That said, the time difference between opening your extension in Google Docs, selecting the collection you would like a citation from and just opening your Zotero app, copying the bibliography to your clipboard and pasting into the same document is basically negligible. 
+{% include alert.html text="One feature that Zotero promotes but I’ve encountered errors with is adding extensions to Google Docs or Microsoft Word that generate citations within your document. Perhaps due to errors in the Application Programming Interface (or API) that would allow the two programs to exchange information, I have never been able to get this extension to function. While this might be dependant on what browser or device you are using, I find that the time difference between this extension method and simply copying the bibliography to your clipboard and pasting into the same document is basically negligible." color="light" align="center" %}
 
 <br>

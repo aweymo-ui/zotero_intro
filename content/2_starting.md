@@ -10,7 +10,7 @@ gallery: true
 
 **To begin**, first create an account by visiting the [user login page](https://www.zotero.org/user/login/){:target="_blank" rel="noopener"} and selecting `Register for a Free Account`, where you will create a username, add email and password. Once you validate the email you entered, you should be all set!
 
-{% include gallery-figure.html img="zot_01.gif" alt="Initial registration steps on Zotero site." caption="Demonstration of initial registration steps on Zotero site" width="100%" %}
+{% include gallery-figure.html img="zot_01.gif" alt="Demonstration of initial registration steps on Zotero site." caption="Initial registration steps on Zotero site" width="100%" %}
 
 <br>
 
@@ -18,9 +18,9 @@ gallery: true
 
 Now visit the [downloads page](https://www.zotero.org/download/){:target="_blank" rel="noopener"} and select the desktop app icon on the left. On Windows, simply run the setup program Zotero provides. On a Mac the only step you need to do is to drag your .dmg file from the downloads folder into your applications folder before opening. If you happen to be on Linux, please reference [these setup instructions](https://www.zotero.org/support/installation){:target="_blank" rel="noopener"} provided by Zotero. 
 
-Once you open the desktop application for the first time, go to your menu, select `Zotero` > `Settings` > `Sync` > `Link Account`, where you will be prompted to enter your username and password you just created. Once this is complete, close the settings pop-up and click the green circular arrow button on the top right of the application to test syncing. Considering you just created an account and have no items, this shouldn’t take long – ut as long as you don’t have a little red exclamation mark that appears at the end of the sync, you should be set up!
+Once you open the desktop application for the first time, go to your menu, select `Zotero` > `Settings` > `Sync` > `Link Account`, where you will be prompted to enter your username and password you just created. Once this is complete, close the settings pop-up and click the green circular arrow button on the top right of the application to test syncing. Considering you just created an account and have no items, this shouldn’t take long – but as long as you don’t have a little red exclamation mark that appears at the end of the sync, you should be set up!
 
-{% include gallery-figure.html img="zot_02.gif" alt="Connecting Zotero desktop application to your web library and syncing" caption="Demonstration connecting Zotero desktop application to your web library and syncing" width="100%" %}
+{% include gallery-figure.html img="zot_02.gif" alt="Demonstration of how to connect the Zotero desktop application to your web library and sync" caption="Connecting Zotero desktop application to your web library and sync" width="100%" %}
 
 {% include alert.html text="Note: If you have multiple desktops and laptops that you would like to use with your Zotero account, this is no problem! There is no maximum number of “chairs” a user with a free account can access. Simply [download](https://www.zotero.org/download/) on the new device and enter your username and password again in the settings to sync between multiple devices. " color="light" align="right" %}
 
@@ -38,7 +38,7 @@ While there are some customizable options you can configure by selecting the `Ex
 
 First, this will add a web page item to your collection, scraping any available title, author, Abstract, URL, accessed date, language and rights information that is available on the page.  Second, a “child” item will be added below this “parent” as a “snapshot.” This item contains the web page’s HTML content and associated images, CSS and any scripts necessary to run the page. If you open the snapshot directly from the Zotero, you will notice in this image that the URL in the browser is actually just my local Zotero storage drive. 
 
-{% include gallery-figure.html img="zot_03.gif" alt="Saving a web site page using Zotero Connector and demonstrating the Snapshot function which preserves and recreates web pages locally. Note the URL is actually the Zotero storage folder!" caption="Demonstration saving a web site page using Zotero Connector and demonstrating the Snapshot function which preserves and recreates web pages locally" width="100%" %}
+{% include gallery-figure.html img="zot_03.gif" alt="Demonstration saving a web site page using Zotero Connector and demonstrating the Snapshot function which preserves and recreates web pages locally. Note the URL is actually the Zotero storage folder!" caption="Saving a web site page using Zotero Connector and demonstrating the Snapshot function which preserves and recreates web pages locally" width="100%" %}
 
 This means that I can access this content without an internet connection and it will remain accessible even if the original web page has been modified or deleted in the future. Having this feature automated is an incredibly helpful backup for your research findings as links eventually rot or pages that were once discoverable are buried by Search Engine Optimization that favors commercial rather than scholarly results. 
 

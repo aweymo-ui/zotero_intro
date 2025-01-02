@@ -1,6 +1,6 @@
 ---
-title: Annotation, Searching and Creating Bibliographies
-nav: Annotation, Searching and Creating Bibliographies
+title: Annotation, Tagging and Searching
+nav: Annotation, Tagging and Searching
 gallery: true
 ---
 

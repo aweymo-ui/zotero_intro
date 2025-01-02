@@ -22,7 +22,7 @@ Considering how difficult it is to organize a firehose of information you receiv
 
 ## Overview
 
-**Zotero is an open source reference management software** developed by the Corporation for Digital Scholarship (formerly by the Center for History and New Media at George Mason University) in 2006. Since jumping from an academic tool to incorporation in 2013, the software has gained widespread adoption by academics, students and researchers as a more versatile and digital preservation focused alternative to proprietary alternatives like EndNote and Mendeley. 
+**Zotero is an open source reference management software** developed by the Corporation for Digital Scholarship (formerly by the Center for History and New Media at George Mason University) in 2006. Since jumping from an academic tool to incorporation in 2013, the software has gained widespread adoption by academics, students and researchers as a more versatile and digital preservation focused alternative to other citation managers like EndNote and Mendeley. 
 
 This workshop will show you how to set up your account, add browser plug-ins, survey different methods for annotating your research materials and searching between documents, using Zotero to create bibliographies, creating collaborative collections for group projects and exporting collections. 
 
