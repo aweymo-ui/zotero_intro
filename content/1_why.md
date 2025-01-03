@@ -4,21 +4,21 @@ nav: Why Use Zotero?
 gallery: true
 ---
 
+<br>
+
 Hello, my name is [Andrew Weymouth](https://www.lib.uidaho.edu/about/people/aweymouth.html){:target="_blank" rel="noopener"} and I work at the University of Idaho Library as the Digital Initiatives Librarian in the [Center for Digital Inquiry and Learning (CDIL)](https://cdil.lib.uidaho.edu/){:target="_blank" rel="noopener"} department. My work generally consists of [creating and maintaining our digital collections](https://www.lib.uidaho.edu/digital/){:target="_blank" rel="noopener"}, helping to rethink processes and introducing new digital scholarship tools to the department.
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>
 </div>
 
-## Use Case
+<br>
 
 **As a student**, keeping track of a huge amount of research material can feel impossible. Have you ever been working on a paper and you have the perfect example that you would like to use but you have no idea what the name of the paper or site where you saw that information? Have you ever accidentally assumed a paper needed to be in one citation style that was actually another and needed to take hours tediously reworking in-line and end note formatting? 
 
 Considering how difficult it is to organize a firehose of information you receive over the course of a semester, now imagine how difficult it will be when you need to find that book passage, scholarly journal or web site (which may or may not exist anymore) years afterwards when you are finishing your undergraduate degree, creating a master’s thesis or attempting a phD. Zotero is a good solution for all of these challenges you will encounter in your studies. 
 
-<div class="symbol-container">
-    <p class="symbol">&#10042;</p>
-</div>
+<br>
 
 ## Overview
 

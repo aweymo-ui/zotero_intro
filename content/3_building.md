@@ -112,6 +112,10 @@ Best for: **Research using diverse approaches**
 
 **On a technical level**, to create a new collection or subcollection, either select `File` from the menu and `New Collection`, or simply right click `My Library` on the left pane of the application and start building out your collection structure. 
 
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
+
 <br>
 
 ## Importing Files
@@ -140,6 +144,10 @@ Once you have an idea of how to best organize your material, let’s begin filli
 
 For items that may not have a web presence such as presentations, conference papers and hearings, you can also add files manually by going to the menu and selecting `File` > `New Item` or selecting the green plus sign along the top of the application and picking the appropriate item type.  
 
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
+
 <br>
 
 ## Duplicating and Removing Items
@@ -163,5 +171,9 @@ This is an appropriate time to mention that **Zotero is free up to 300 MB**, aft
 - Regularly exporting collections once a semester or when a project ends, before deleting those items from your collection 
 
 **should be sufficient to maintain a completely free Zotero account!**
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>

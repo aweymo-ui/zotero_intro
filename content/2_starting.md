@@ -18,6 +18,12 @@ gallery: true
 
 Now visit the [downloads page](https://www.zotero.org/download/){:target="_blank" rel="noopener"} and select the desktop app icon on the left. On Windows, simply run the setup program Zotero provides. On a Mac the only step you need to do is to drag your .dmg file from the downloads folder into your applications folder before opening. If you happen to be on Linux, please reference [these setup instructions](https://www.zotero.org/support/installation){:target="_blank" rel="noopener"} provided by Zotero. 
 
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
+
+<br>
+
 Once you open the desktop application for the first time, go to your menu, select `Zotero` > `Settings` > `Sync` > `Link Account`, where you will be prompted to enter your username and password you just created. Once this is complete, close the settings pop-up and click the green circular arrow button on the top right of the application to test syncing. Considering you just created an account and have no items, this shouldn’t take long – but as long as you don’t have a little red exclamation mark that appears at the end of the sync, you should be set up!
 
 {% include gallery-figure.html img="zot_02.gif" alt="Demonstration of how to connect the Zotero desktop application to your web library and sync" caption="Connecting Zotero desktop application to your web library and sync" width="100%" %}
@@ -32,6 +38,10 @@ Now let’s return to the [downloads page](https://www.zotero.org/download/){:ta
 
 While there are some customizable options you can configure by selecting the `Extensions` icon in your browser window > `Ellipses` > `Options`, the unmodified setup is very straightforward. If you would like to save a web page to a collection, simply have your desktop Zotero application open and have the collection you would like the page saved to selected. Then select `Extensions` and select the Zotero icon. 
 
+<div class="symbol-container">
+    <p class="symbol">&#9682;</p>
+</div>
+
 <br>
 
 ## Using Zotero Connector and “Snapshot” Function
@@ -41,6 +51,10 @@ First, this will add a web page item to your collection, scraping any available 
 {% include gallery-figure.html img="zot_03.gif" alt="Demonstration saving a web site page using Zotero Connector and demonstrating the Snapshot function which preserves and recreates web pages locally. Note the URL is actually the Zotero storage folder!" caption="Saving a web site page using Zotero Connector and demonstrating the Snapshot function which preserves and recreates web pages locally" width="100%" %}
 
 This means that I can access this content without an internet connection and it will remain accessible even if the original web page has been modified or deleted in the future. Having this feature automated is an incredibly helpful backup for your research findings as links eventually rot or pages that were once discoverable are buried by Search Engine Optimization that favors commercial rather than scholarly results. 
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>
 
@@ -134,6 +148,10 @@ While there are some variances depending on the type of tablet or mobile device 
 <br>
 
 **These applications are great for being able to always have research materials on hand** but they are also helpful for different levels of study. While you might want to do more intensive highlighting and annotation for some research materials on your laptop or desktop, some materials that you may only need to skim are easily read on the go by using any of the mobile applications listed above along with a text to speech reader that are now available at no extra charge on any modern smartphone.
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>
 

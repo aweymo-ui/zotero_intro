@@ -16,6 +16,10 @@ Another great feature that can help you during group projects, creating literatu
 
 Once this is configured to your liking, visit `Group Settings` to Edit group name, create a project description, choose an image for the collection, designate disciplines and link to a project site if that exists. From this page, visit `Member Settings` and select `Send More Invitations`, where you can add all of the email addresses or Zotero usernames of your group members individually or in one batch separated by commas. Once the project is finished, visit `Group Settings` and select `Delete Group` after exporting and saving the collection for future reference, which we will unpack in the final section… 
 
+<div class="symbol-container">
+    <p class="symbol">&#9682;</p>
+</div>
+
 <br>
 
 ## Exporting Collections
@@ -23,6 +27,10 @@ Once this is configured to your liking, visit `Group Settings` to Edit group nam
 The final step in the process so that you can both keep your storage bandwidth low (and free) and retain all of your research and associated notes and tagging is to export this data before erasing. Like generating the bibliography, select all of the items you plan on removing, right click and select `Export Items`. For ease of accessibility and digital preservation, I create two copies: one in the `Zotero RDF` format that I can drop back into Zotero at any point and one in `CSV` format that is a) non-proprietary, b) human readable, and c) widely supported by a variety of spreadsheet software platforms if Zotero decides to do something strange in the future. For both copies, make sure you check the boxes below to include notes, files and annotations. Once you have saved a copy to your external hard drive and/or cloud based storage, right click the collection, select `Move to Trash`, open the `Trash` folder, select items, right click and select `Delete Permanently` to remove from both web and local libraries.  
 
 {% include gallery-figure.html img="zot_14.gif" alt="Demonstration of how to export collections with files and annotations as a Zotero RDF file (for reopening with Zotero) and CSV (for digital preservation)" caption="How to export collections with files and annotations as a Zotero RDF file (for reopening with Zotero) and CSV (for digital preservation)" width="100%" %}
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>
 

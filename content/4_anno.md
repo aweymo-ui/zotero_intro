@@ -14,9 +14,19 @@ Along with the metadata Zotero retrieves that is visible in the `Info` tab for a
 
 {% include gallery-figure.html img="zot_06.gif" alt="Demonstration of how to add custom tags to documents in Zotero" caption="How to add custom tags to documents in Zotero" width="100%" %}
 
+<div class="symbol-container">
+    <p class="symbol">&#9682;</p>
+</div>
+
+<br>
+
 For annotations that don't need to connect one work with another, you can visit the `Notes` tab of your document and select `Add`. There can really be anything that is helpful for future reference but I find that they are ideal for one to three sentence recaps after you finish reading so you have a personalized summary you can skim through as you look over a collection so you don’t need to open and dig through every document. These might include descriptions like, “only relevant in the final third,” “Good quotes.”
 
 {% include gallery-figure.html img="zot_07.gif" alt="Demonstration of how to add custom notes to your documents in Zotero" caption="How to add custom notes to your documents in Zotero" width="100%" %}
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>
 
@@ -37,6 +47,10 @@ For non-proprietary digital preservation, I recommend going to your menu and sel
 
 This configuration will open your documents in your preferred application where you can make your annotations for future reference, save and, once you push the green sync button in the Zotero, these changes will be reflected across all devices and, importantly, visible on any major word processor in the future. 
 
+<div class="symbol-container">
+    <p class="symbol">&#9682;</p>
+</div>
+
 <br>
 
 ## Searching in Zotero
@@ -44,5 +58,9 @@ This configuration will open your documents in your preferred application where 
 Searching either within or across your collections is easy to do even if it isn’t very evident in Zotero. To search across all collections, select `My Library`. Selecting the magnifying glass icon in the search bar, a menu will drop down that allows you to choose to search either `Title, Creator, Year`, `All Fields and Tags` or `Everything`, which will search the text within your documents *if the documents are loaded with optical character recognition*. To limit your search within specific collections and subcollections, simply select those areas and enter terms into the search bar.   
 
 {% include gallery-figure.html img="zot_09.gif" alt="Demonstration of how to search inside Zotero and refine your area of focus" caption="How to search inside Zotero and refine your area of focus" width="100%" %}
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>
