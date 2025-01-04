@@ -10,8 +10,6 @@ gallery: true
 
 **To begin**, first create an account by visiting the [user login page](https://www.zotero.org/user/login/){:target="_blank" rel="noopener"} and selecting `Register for a Free Account`, where you will create a username, add email and password. Once you validate the email you entered, you should be all set!
 
-{% include gallery-figure.html img="zot_01.gif" alt="Demonstration of initial registration steps on Zotero site." caption="Initial registration steps on Zotero site" width="100%" %}
-
 <br>
 
 ## Installing Desktop Application
