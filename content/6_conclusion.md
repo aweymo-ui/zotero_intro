@@ -41,7 +41,7 @@ Using this approach, Zotero is **less like a permanent, constantly expanding lib
 {% include gallery-figure.html img="banner.gif" alt="Demonstration of how to export collections with files and annotations as a Zotero RDF file (for reopening with Zotero) and CSV (for digital preservation)" caption="How to export collections with files and annotations as a Zotero RDF file (for reopening with Zotero) and CSV (for digital preservation)" width="100%" %}
 
 
-At the beginning of the semester, books, articles and web pages are poured all over the floor, Zotero helps you identify what everything is, you organize and annotate the material according to your needs, and once you’ve finished using the materials for the time being, Zotero will act like a trash compactor, compressing all of this work into a single, lightweight file that can be expanded again in the future if you ever need it. Then the warehouse floor is clean and ready for the next flood of information the following semester. 
+At the beginning of the semester, books, articles and web pages are poured all over the floor, Zotero helps you identify what everything is, organize and annotate the material according to your needs, and once you’ve finished using the materials for the time being, Zotero will act like a trash compactor, compressing all of this work into a single, lightweight file that can be expanded again in the future if you ever need it. Then the warehouse floor is clean and ready for the next flood of information the following semester. 
 
 I hope this has been an informative workshop. If you have any questions regarding the content of this work, always feel free to reach out to me at `aweymouth@uidaho.edu`
 
