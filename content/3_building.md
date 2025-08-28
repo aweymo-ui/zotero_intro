@@ -162,7 +162,11 @@ Zotero is (maybe rightfully) skittish about accidentally deleting research. To r
 
 ## Data Limits
 
-This is an appropriate time to mention that **Zotero is free up to 300 MB**, after which tiered storage is available at a subscription fee. There is also a functionality to link your Zotero storage with a Web Distributed Authoring and Versioning (WebDAV) service, which the more technically adept may be interested in reading [more about here](https://www.zotero.org/support/sync){:target="_blank" rel="noopener"}. 
+This is an appropriate time to mention that **Zotero is free up to 300 MB**, after which tiered storage is available at a subscription fee. Most PDF files can be compressed or `optimized` up to 95% and you won't notice a big difference for text based documents. One of the most popular platforms to do this is Adobe Acrobat.
+
+Out of frustration with the University making Adobe Acrobat less accessible to students (see if you can apply for [a license here](https://support.uidaho.edu/TDClient/40/Portal/KB/ArticleDet?ID=2696)){:target="_blank" rel="noopener"} , I developed an open source [pdf_compressor](https://github.com/Scholarly-Projects/pdf_compressor){:target="_blank" rel="noopener"}  tool for compressing PDF files to varying degrees. All of the instructions you need to run the tool in the setup.md file, but you may need to be comfortable working in Python environments or it may be a steep learning curve. 
+
+You will see various free sites on the web that will compress PDF files but I haven't found one that explicitly states that they won't share your data, or that the processed PDF file wont contain viruses afterwards, so be cautious!
 
 **For the majority of you:**
 
